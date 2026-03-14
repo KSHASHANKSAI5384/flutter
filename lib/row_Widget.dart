@@ -33,8 +33,8 @@ class MyRowWidget extends StatelessWidget {
         //   color: Colors.white,
         // ),
         Icon(
-          Icons.onetwothree,
-          color: Colors.white,
+          Icons.favorite,
+          color: Colors.yellow,
 
         )
       ],
